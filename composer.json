@@ -1,0 +1,19 @@
+{
+    "name": "thavirat/thaibulksms",
+    "description": "Thaibulk SMS",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thavirar Sakeaw",
+            "email": "twetheam@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Thavirat\\Thaibulksms\\": "src/"
+        }
+    },
+    "require": {}
+}
